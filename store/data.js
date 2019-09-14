@@ -13,7 +13,7 @@ module.exports = {
   },
 
   mccartney: {
-    firstName: 'Paul',
+    firstName: 'Mary',
     lastName: 'McCartney',
     genre: 'ROCK',
   },
